@@ -20,7 +20,7 @@ This repository contains various C# programs demonstrating different concepts an
 
 ## How to view code
 
-Click on the cs file to run...
+Click on the cs file to view...
 
 ## How to Run
 
