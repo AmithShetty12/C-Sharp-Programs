@@ -28,4 +28,4 @@ Click on the exe file to run...
 
 ## Author
 
-- Name: **Amith M Shetty**
+- Name: **Amith M Shetty & Darshan J Baligeri**
