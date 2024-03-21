@@ -3,9 +3,9 @@
 
 This repository contains various C# programs demonstrating different concepts and functionalities.
 
-## Author
+## Authors
 
-- Name: **Amith M Shetty & Darshan J Baligeri**
+-**Amith M Shetty & Darshan J Baligeri**
 
 ## Programs
 
