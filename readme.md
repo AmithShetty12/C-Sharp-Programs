@@ -5,7 +5,7 @@ This repository contains various C# programs demonstrating different concepts an
 
 ## Authors
 
--**Amith M Shetty & Darshan J Baligeri**
+**Amith M Shetty & Darshan J Baligeri**
 
 ## Programs
 
