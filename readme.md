@@ -9,7 +9,7 @@ This repository contains various C# programs demonstrating different concepts an
 
 ## Programs
 
-1. **Arithmetic Operations**: Perform basic arithmetic operations like addition, subtraction, multiplication, division, exponentiation, and square root.
+1. **Arithmetic Operations**: Perform basic arithmetic operations like addition, subtraction, multiplication, division, modulus.
 2. **Armstrong Numbers**: Find Armstrong numbers in a given range.
 3. **Substring of Strings**: Find all substrings of a given string.
 4. **Divide By Zero Exception**: Handle DivideByZeroException in C#.
