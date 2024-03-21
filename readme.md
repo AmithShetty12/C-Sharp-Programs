@@ -3,6 +3,10 @@
 
 This repository contains various C# programs demonstrating different concepts and functionalities.
 
+## Author
+
+- Name: **Amith M Shetty & Darshan J Baligeri**
+
 ## Programs
 
 1. **Arithmetic Operations**: Perform basic arithmetic operations like addition, subtraction, multiplication, division, exponentiation, and square root.
@@ -26,6 +30,3 @@ Click on the cs file to view...
 
 Click on the exe file to run...
 
-## Author
-
-- Name: **Amith M Shetty & Darshan J Baligeri**
